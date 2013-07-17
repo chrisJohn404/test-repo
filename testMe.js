@@ -75,6 +75,7 @@ console.log('Close Result: ' + result);
 var result = isNum("i");
 console.log('Your output: ' + result);
 console.log('Your output: ' + (typeof(" ")=="string"));
+
 */
 
 
